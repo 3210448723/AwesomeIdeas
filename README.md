@@ -11,8 +11,9 @@
 2. 能够分析个人聊天特点，给出数据分析和建议
 
 ## 基于开源模型，给hnust训练一个问答机器人
+> 估计目前有人在做
 
-~~## 私域网站搜索引擎~~
+~~## 私域网站搜索引擎~~->收集比较优质的个人博客网站
 1. 面向个人博客
 2. github pages
 3. 利用爬虫
@@ -30,3 +31,6 @@
 9. 导出QQ微信表情包
 10. 编写油猴脚本，为需要翻页的网页提供方向键翻页功能
 11. 编写油猴脚本，使网页翻页逻辑支持从瀑布流翻页到页码翻页之间切换
+
+## wordpress
+1. 开发类似于[mAAdhaTTah/wordpress-github-sync：一个 WordPress 插件，用于将内容与 GitHub 仓库（或 Jekyll 站点）同步](https://github.com/mAAdhaTTah/wordpress-github-sync/)的，将wordpress站点内容和数据库自动同步到github等平台的wordpress插件
