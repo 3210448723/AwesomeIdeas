@@ -34,3 +34,10 @@
 
 ## wordpress
 1. 开发类似于[mAAdhaTTah/wordpress-github-sync：一个 WordPress 插件，用于将内容与 GitHub 仓库（或 Jekyll 站点）同步](https://github.com/mAAdhaTTah/wordpress-github-sync/)的，将wordpress站点内容和数据库自动同步到github等平台的wordpress插件
+
+## AI集成平台
+1. 开发类似于[视频行为分析系统v4.427，支持x86/arm/英特尔/英伟达/昇腾/RK3588/AMD/龙芯/Windows/Ubuntu/Centos/麒麟/UOS_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12J4m1T7Q7)的AI模型系统
+   1. 可添加多种领域的模型
+   2. 支持多种模态
+   3. 提供可视化训练和推理结果等后台展示信息
+2. 
