@@ -32,6 +32,9 @@
 10. 编写油猴脚本，为需要翻页的网页提供方向键翻页功能
 11. 编写油猴脚本，使网页翻页逻辑支持从瀑布流翻页到页码翻页之间切换
 
+## 现有网站增强开发
+1. 编写支持多端同步的浏览器插件，为github等不支持备注的网站的用户添加备注名等信息
+
 ## wordpress
 1. 开发类似于[mAAdhaTTah/wordpress-github-sync：一个 WordPress 插件，用于将内容与 GitHub 仓库（或 Jekyll 站点）同步](https://github.com/mAAdhaTTah/wordpress-github-sync/)的，将wordpress站点内容和数据库自动同步到github等平台的wordpress插件
 
@@ -40,6 +43,7 @@
    1. 可添加多种领域的模型
    2. 支持多种模态
    3. 提供可视化训练和推理结果等后台展示信息
+   4. 提供视频播放，支持将标注框和视频分开，在播放时再根据标注框坐标渲染（不把标注框直接画到原图上）
 2. 
 
 ## windows系统工具
