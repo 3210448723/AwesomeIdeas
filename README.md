@@ -39,12 +39,22 @@
 1. 开发类似于[mAAdhaTTah/wordpress-github-sync：一个 WordPress 插件，用于将内容与 GitHub 仓库（或 Jekyll 站点）同步](https://github.com/mAAdhaTTah/wordpress-github-sync/)的，将wordpress站点内容和数据库自动同步到github等平台的wordpress插件
 
 ## AI集成平台
-1. 开发类似于[视频行为分析系统v4.427，支持x86/arm/英特尔/英伟达/昇腾/RK3588/AMD/龙芯/Windows/Ubuntu/Centos/麒麟/UOS_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12J4m1T7Q7)的AI模型系统
+1. 开发类似于[视频行为分析系统v4.427，支持x86/arm/英特尔/英伟达/昇腾/RK3588/AMD/龙芯/Windows/Ubuntu/Centos/麒麟/UOS_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12J4m1T7Q7)的AI模型合集系统
    1. 可添加多种领域的模型
    2. 支持多种模态
    3. 提供可视化训练和推理结果等后台展示信息
    4. 提供视频播放，支持将标注框和视频分开，在播放时再根据标注框坐标渲染（不把标注框直接画到原图上）
 2. 
+
+## 应用
+
+1. 分割任意类型的文件，方便传输，将其组合后得到原文件的工具
+2. 输入pdf论文，输出该论文所有引用文献的bibtex文件
+3. 护眼应用，支持调节任意屏幕的屏幕亮度和护眼模式（支持多屏幕分别配置等高级功能）
+
+# linux
+
+1. linux系统下的everything应用
 
 ## windows系统工具
 1. 在点击关机/睡眠/重启按钮后弹出确认对话框再次确认后再关闭，避免误操作。
