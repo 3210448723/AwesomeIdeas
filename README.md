@@ -68,6 +68,7 @@
 1. linux系统下的everything应用，提供web服务器可视化查询，可参考：
    1. linux命令行文件查找：[junegunn/fzf: :cherry_blossom: A command-line fuzzy finder (github.com)](https://github.com/junegunn/fzf)
    2. 跨平台具有用户界面的查找软件：[naaive/orange: Cross-platform local file search engine. (github.com)](https://github.com/naaive/orange)
+   3. 支持多种存储的文件列表程序：[主页 | AList](https://alist.pages.dev/)
    
 
 ## windows系统工具
