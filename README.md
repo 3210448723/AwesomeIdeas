@@ -81,7 +81,9 @@
 ## windows系统工具
 
 1. 在点击关机/睡眠/重启按钮后弹出确认对话框再次确认后再关闭，避免误操作。
-2. 阻止某个目录的写入但不影响需要写入该目录的程序正常运行：[Grok3对话记录](https://x.com/i/grok/share/DmMzyJ7FxvSicc6XqVt3yCrfQ)。
+2. 阻止某个目录的写入但不影响需要写入该目录的程序正常运行。
+   1. [文件钩子——监听Windows文件操作_文件钩子监测-CSDN博客](https://blog.csdn.net/nicedante/article/details/109312457)
+   2. [Grok3对话记录](https://x.com/i/grok/share/DmMzyJ7FxvSicc6XqVt3yCrfQ)
 
 ## 游戏
 
