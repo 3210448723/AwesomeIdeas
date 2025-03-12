@@ -6,7 +6,7 @@
 
 ### 插件
 
-1. 修改多轮对话提问方式，支持引用之前的语句，使用树形或网状结构可视化定位聊天记录，使得可以随时对之前谈话的某个细节进行深入或者切换。可在[ChatGPTNextWeb/NextChat: ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows (github.com)](https://github.com/ChatGPTNextWeb/NextChat)项目基础上修改。
+1. ~~修改多轮对话提问方式，支持引用之前的语句，使用树形或网状结构可视化定位聊天记录，使得可以随时对之前谈话的某个细节进行深入或者切换。可在[ChatGPTNextWeb/NextChat: ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows (github.com)](https://github.com/ChatGPTNextWeb/NextChat)项目基础上修改。~~：[The AI Native Creation Engine · Refly](https://refly.ai/)
 
 ## 社交软件助手
 
